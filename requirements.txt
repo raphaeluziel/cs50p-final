@@ -1,0 +1,12 @@
+check50
+submit50
+
+requests
+pytest
+
+pylint
+
+lyricsgenius
+python-dotenv
+SQLAlchemy
+matplotlib
